@@ -24,7 +24,7 @@
     <img src="https://global-uploads.webflow.com/618fa90c201104b94458e1fb/6299f18349b8304b2427860a_FP0RnJQZi0ZELYsIYPD8LGQ32iywLflse728ZTmTapBqwFUao__86XpjAZGKUbHUIDQjXZ4OrPuBr1zgf0wk_Kef539Ki1GFWnT9K3qCnz0T5z0IYtp4rX-ZxBu7A09Gwg2-gLu9EcXJF6YzSQ.gif" alt="react" width="75" height="50">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
      <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="50" height="50"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="50"/>
      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
@@ -43,8 +43,8 @@
           <img src="media/github.png" width="50" height="50" alt="github">
         </a>
       &ensp;
-      <a href="mailto:rohankbd.1@gmail.com">
-          <img src="media/gmail.png" width="50" height="50" alt="github">
-      </a>
+        <a href="mailto:rohankbd.1@gmail.com">
+          <img src="media/gmail.png" width="60" height="50" alt="github">
+        </a>
       </div>
   </div>
