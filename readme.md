@@ -35,7 +35,7 @@
   <div>
       <h3>🤝 Connect with me!👇</h3>
       <div align="center">
-      <a href="https://www.linkedin.com/in/rohan-kabadi-a37987221/">
+      <a href="https://www.linkedin.com/in/rohan-s-kabadi-a37987221/">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="linkedin">
       </a>
       &ensp;
