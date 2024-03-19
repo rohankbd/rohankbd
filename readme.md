@@ -20,7 +20,7 @@
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" width="100" height="50">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="50" height="50">
     <img src="https://img.icons8.com/color/512/c-programming.png" alt="c" width="50" height="50">
-    <img src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67" alt="mysql" width="50" height="50">
+    <img src="./media/mysql.png" alt="mysql" width="50" height="50">
     <img src="https://global-uploads.webflow.com/618fa90c201104b94458e1fb/6299f18349b8304b2427860a_FP0RnJQZi0ZELYsIYPD8LGQ32iywLflse728ZTmTapBqwFUao__86XpjAZGKUbHUIDQjXZ4OrPuBr1zgf0wk_Kef539Ki1GFWnT9K3qCnz0T5z0IYtp4rX-ZxBu7A09Gwg2-gLu9EcXJF6YzSQ.gif" alt="react" width="75" height="50">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
      <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="50" height="50"/>
