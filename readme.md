@@ -1,13 +1,14 @@
+
 <h1 align="center">Hey there! I'm Rohan👋 </h1>
- <h3 align="center"> CS Undergrad || WebDev enthusiast || ♂ </h3>
+ <h3 align="center"> Dev | DevOps | ♂ </h3>
  <div>
  <img align="right" alt="PIC" width="300px" height="250px" src="https://raw.githubusercontent.com/demartini/demartini/master/code.gif" />
  <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   
   - 🤔 &nbsp; Exploring new technologies and having fun while on it!
-  - 🎓 &nbsp; Studying Computer Science and Engineering.    
-  - 💼 &nbsp; I’m currently working on Front End Development projects.
+  - 🎓 &nbsp; Computer Science Grad
+  - 💼 &nbsp; I’m currently working on Dev/Ops
   </div> 
   </div>
 
@@ -44,7 +45,7 @@
         </a>
       &ensp;
         <a href="mailto:rohankbd.1@gmail.com">
-          <img src="media/gmail.png" width="60" height="50" alt="github">
+          <img src="media/gmail.png" width="60" height="50" alt="gmail">
         </a>
       </div>
   </div>
